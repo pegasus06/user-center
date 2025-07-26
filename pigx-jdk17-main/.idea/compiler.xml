@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pigx-daemon-elastic-job" />
+        <module name="pigx-common-feign" />
+        <module name="pigx-common-data" />
+        <module name="pigx-common-sequence" />
+        <module name="pigx-common-excel" />
+        <module name="pigx-common-sse" />
+        <module name="pigx-common-websocket" />
+        <module name="pigx-common-log" />
+        <module name="pigx-mp-platform" />
+        <module name="pigx-report-platform" />
+        <module name="pigx-common-gray" />
+        <module name="pigx-flow-task-api" />
+        <module name="pigx-common-idempotent" />
+        <module name="pigx-common-seata" />
+        <module name="pigx-gateway" />
+        <module name="pigx-common-security" />
+        <module name="pigx-common-xss" />
+        <module name="pigx-flow-engine-api" />
+        <module name="pigx-flow-engine-biz" />
+        <module name="pigx-flow-task-biz" />
+        <module name="pigx-monitor" />
+        <module name="pigx-common-oss" />
+        <module name="pigx-register" />
+        <module name="pigx-common-audit" />
+        <module name="pigx-upms-api" />
+        <module name="pigx-jimu-platform" />
+        <module name="pigx-auth" />
+        <module name="pigx-common-core" />
+        <module name="pigx-common-datasource" />
+        <module name="pigx-common-job" />
+        <module name="pigx-common-encrypt-api" />
+        <module name="pigx-app-server-biz" />
+        <module name="pigx-app-server-api" />
+        <module name="pigx-common-gateway" />
+        <module name="pigx-common-swagger" />
+        <module name="pigx-common-sensitive" />
+        <module name="pigx-daemon-quartz" />
+        <module name="pigx-upms-biz" />
+        <module name="pigx-pay-platform" />
+        <module name="pigx-codegen" />
+        <module name="pigx-xxl-job-admin" />
+        <module name="pigx-common-sentinel" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pigx" options="-parameters" />
+      <module name="pigx-app-server" options="-parameters" />
+      <module name="pigx-app-server-api" options="-parameters" />
+      <module name="pigx-app-server-biz" options="-parameters" />
+      <module name="pigx-auth" options="-parameters" />
+      <module name="pigx-codegen" options="-parameters" />
+      <module name="pigx-common" options="-parameters" />
+      <module name="pigx-common-audit" options="-parameters" />
+      <module name="pigx-common-core" options="-parameters" />
+      <module name="pigx-common-data" options="-parameters" />
+      <module name="pigx-common-datasource" options="-parameters" />
+      <module name="pigx-common-encrypt-api" options="-parameters" />
+      <module name="pigx-common-excel" options="-parameters" />
+      <module name="pigx-common-feign" options="-parameters" />
+      <module name="pigx-common-gateway" options="-parameters" />
+      <module name="pigx-common-gray" options="-parameters" />
+      <module name="pigx-common-idempotent" options="-parameters" />
+      <module name="pigx-common-job" options="-parameters" />
+      <module name="pigx-common-log" options="-parameters" />
+      <module name="pigx-common-oss" options="-parameters" />
+      <module name="pigx-common-seata" options="-parameters" />
+      <module name="pigx-common-security" options="-parameters" />
+      <module name="pigx-common-sensitive" options="-parameters" />
+      <module name="pigx-common-sentinel" options="-parameters" />
+      <module name="pigx-common-sequence" options="-parameters" />
+      <module name="pigx-common-sse" options="-parameters" />
+      <module name="pigx-common-swagger" options="-parameters" />
+      <module name="pigx-common-websocket" options="-parameters" />
+      <module name="pigx-common-xss" options="-parameters" />
+      <module name="pigx-daemon-elastic-job" options="-parameters" />
+      <module name="pigx-daemon-quartz" options="-parameters" />
+      <module name="pigx-flow" options="-parameters" />
+      <module name="pigx-flow-engine" options="-parameters" />
+      <module name="pigx-flow-engine-api" options="-parameters" />
+      <module name="pigx-flow-engine-biz" options="-parameters" />
+      <module name="pigx-flow-task" options="-parameters" />
+      <module name="pigx-flow-task-api" options="-parameters" />
+      <module name="pigx-flow-task-biz" options="-parameters" />
+      <module name="pigx-gateway" options="-parameters" />
+      <module name="pigx-jimu-platform" options="-parameters" />
+      <module name="pigx-monitor" options="-parameters" />
+      <module name="pigx-mp-platform" options="-parameters" />
+      <module name="pigx-pay-platform" options="-parameters" />
+      <module name="pigx-register" options="-parameters" />
+      <module name="pigx-report-platform" options="-parameters" />
+      <module name="pigx-upms" options="-parameters" />
+      <module name="pigx-upms-api" options="-parameters" />
+      <module name="pigx-upms-biz" options="-parameters" />
+      <module name="pigx-visual" options="-parameters" />
+      <module name="pigx-xxl-job-admin" options="-parameters" />
+    </option>
+  </component>
+</project>

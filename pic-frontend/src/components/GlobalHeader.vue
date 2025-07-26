@@ -62,24 +62,24 @@ const items = ref<MenuProps['items']>([
   {
     key: '2',
     icon: () => h(SettingOutlined),
-    label: '图谱',
-    title: '图谱',
+    label: '自动化测试',
+    title: '自动化测试',
     children:
       [
         {
           key: '/user/register',
-          label: '用户注册',
-          title: '图片素材',
+          label: 'ui自动化',
+          title: 'ui自动化',
         }, {
           key: '/admin/userManage',
-          label: '用户管理',
-          title: '视频素材',
+          label: '接口自动化',
+          title: '接口自动化',
         }
       ],
   }, {
     key: '3',
-    label: '云空间',
-    title: '云空间',
+    label: '性能监控面板',
+    title: '性能监控面板',
     icon: () => h(WechatFilled),
   }, {
     key: '4',
