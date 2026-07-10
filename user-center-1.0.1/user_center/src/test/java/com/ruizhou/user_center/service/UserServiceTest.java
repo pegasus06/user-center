@@ -62,4 +62,8 @@ class UserServiceTest {
         result = userService.userRegister(userAccount, userPassword, checkPassword);
         Assertions.assertTrue(result > 0);
     }
+
+    @Test
+    void doLogin() {
+    }
 }

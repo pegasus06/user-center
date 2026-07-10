@@ -1,5 +1,6 @@
 package com.ruizhou.user_center.service;
 
+import com.ruizhou.user_center.common.BaseResponse;
 import com.ruizhou.user_center.model.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 import jakarta.servlet.http.HttpServletRequest;
